@@ -1,6 +1,6 @@
-==============================================
+-------------
 I91200 BSP -V3.03.001 2020/02/04
-==============================================
+-------------
 [Fix]
 1.	I2S: Reset module issue in I2S_Open.
 2.	ISP_UART: update APROM will erase data in dataflash.
@@ -17,9 +17,9 @@ I91200 BSP -V3.03.001 2020/02/04
 	SPIFLASH_INTERFACE_MODE = 1 // Dual Mode
 	SPIFLASH_INTERFACE_MODE = 2 // Quad Mode
 
-==============================================
+-------------
 I91200 BSP -V3.03.000 2019/06/27
-==============================================
+-------------
 [Revised]
 1.	Bridge Sense: Revised BSP for 'I91200BS' version. Added new sample and project settings to 
 	existed sample in order to be Compatible with 'I91200BS' version.
@@ -30,9 +30,9 @@ I91200 BSP -V3.03.000 2019/06/27
 3.	"SPIFlash" Sample: Demonstrate how to read, write and erase external flash data using SPI function.
 4.	"ISP_UART" Sample: I91200 firmware source code for ISP tool UART transmission.
 
-==============================================
+-------------
 I91200 BSP -V3.02.000 2017/12/15
-==============================================
+-------------
 [Add]
 1.	IAR Supported demo sample.
 
